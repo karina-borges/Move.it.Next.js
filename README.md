@@ -38,7 +38,7 @@ $ yarn dev || npm run dev
 ```
 
 # Autor
-Feito com amor e dedicação por **Karina Borges** Entre em contato!
+Feito com amor e dedicação por **Karina Borges!** Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/karina-borges)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eng-karina-borges/)](https://www.linkedin.com/in/eng-karina-borges/)
